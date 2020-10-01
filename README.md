@@ -2,7 +2,7 @@
 
 SpeedTest - Privacy Policy
 
-Sky Lab built the Or Battery app as an Ad Supported app. This SERVICE ("app") is provided by at no cost and is intended for use as is:
+Sky Lab built Ad Supported app. This SERVICE ("app") is provided by at no cost and is intended for use as is:
 
 TERMS AND CONDITIONS
 
