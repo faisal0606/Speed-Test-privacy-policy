@@ -62,13 +62,7 @@ The social buttons in the application serve only as a static link to pages / ser
 
 These Services do not address anyone under the age of 16. I do not knowingly collect personally identifiable information from children under 16.
 
-7. Distribution
-
-The only official channel for distribution of this app are:
-
-GOOGLE PLAY STORE : https://play.google.com/store/apps/details?id=com.d3vdr0id.speedtest
-
-8. Changes to This Privacy Policy
+7. Changes to This Privacy Policy
 
 This policy may be updated from time to time.
 
